@@ -1,4 +1,4 @@
 # Default ignored files
-./target/
-./.idea/
-./.gitignore
+/target
+/.idea
+/.gitignore
